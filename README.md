@@ -1,2 +1,3 @@
 # LIS
-### Анализ формы регистрации сайта Gentoo discussion forums
+### Лабораторная работа № 4
+Анализ формы регистрации сайта Gentoo discussion forums
